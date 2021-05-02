@@ -13,8 +13,7 @@
 </p>
 
 ### 💻 Projeto
-
-
+This project correspondes DropBox Clone using Firebase;<br>
 
 ### :books: Learning
 
@@ -47,3 +46,6 @@ npm install
 ```
 npm install formidable --save
 ```
+
+### 🤝Thanks
+This project was developed based on the Complete JavaScript Course with ♥ [HCode](https://hcode.com.br/)/[Udemy](https://www.udemy.com/course/javascript-curso-completo/)
