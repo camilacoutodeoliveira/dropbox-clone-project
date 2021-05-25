@@ -1,5 +1,5 @@
 <h1 align="center">
-  # Projeto DropBox Clone
+  # DropBox Clone Project
    <br>
    <br>
  <img width="80%" src="https://github.com/camilacoutodeoliveira/project-dropbox-clone/blob/main/app/public/assets/images/systemapp.jpg">
